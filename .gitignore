@@ -282,3 +282,6 @@ __pycache__/
 /Umbraco.Media/Media
 /Umbraco.Media/Umbraco
 /Umbraco.Media/Umbraco_Client
+/_src/Umbraco.Media/Media
+/_src/Umbraco.Media/Umbraco_Client
+/_src/Umbraco.Media/Umbraco
